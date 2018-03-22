@@ -120,3 +120,7 @@ def organize_schools(schools)
 
   organized_schools
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2955fcaa65f0b3c15740961881ca1325d17f75b7
